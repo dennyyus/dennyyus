@@ -1,6 +1,6 @@
 ### Hi, it's Denny!
 
-Product person based in Jakarta, Indonesia. Most recently Head of Product at [CloudEats](https://cloudeats.com), consulting for [LaunchGood](https://launchgood.com). Previously worked at [Kitabisa](https://kitabisa.com) and several tech companies.
+Product person based in Tangerang, Indonesia. Previously worked at [CloudEats](https://cloudeats.com), [LaunchGood](https://launchgood.com), [Kitabisa](https://kitabisa.com), and several tech companies.
 
 My path into product came through a computer science background and hands-on experience as a full-stack developer. After a year in the trenches writing code, I recognized that my true calling lay elsewhere, and made the move into product management. These days, my focus sits squarely at the intersection of product sense, product strategy, and the growing role of AI in shaping both.
 
